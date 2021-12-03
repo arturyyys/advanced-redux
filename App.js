@@ -47,5 +47,3 @@ function App() {
 }
 
 export default App;
-
-// add Redux DevTools
